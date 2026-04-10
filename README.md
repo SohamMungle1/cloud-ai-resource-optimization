@@ -406,7 +406,7 @@ This transparency builds trust in autonomous operations.
 
 ## 👤 Author
 
-** Soham Mungle **  
+**Soham Mungle** 
 B.Tech AIML Student  
 
 ## 📄 License
