@@ -404,14 +404,14 @@ This transparency builds trust in autonomous operations.
 
 ---
 
+## 👤 Author
+
+** Soham Mungle **  
+B.Tech AIML Student  
+
 ## 📄 License
 
-This project is provided for educational and research purposes.
-
-## 👥 Author
-
-Created for academic/research purposes - AI-Powered Cloud Resource Optimization Framework
-
+This project is intended for educational and research purposes only.
 ---
 
 **Happy Optimizing! 🚀**
