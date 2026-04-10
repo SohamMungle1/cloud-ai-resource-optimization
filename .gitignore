@@ -8,16 +8,12 @@ venv/
 env/
 ENV/
 
-# Data files (optional - uncomment if you don't want to commit data)
-# data/*.csv
+# Data & Models (ignore completely)
+data/
+models/
 
-# Models (optional - uncomment if you don't want to commit models)
-# models/*.h5
-# models/*.pkl
-
-# Outputs
-outputs/*.png
-outputs/*.txt
+# Outputs (ignore completely)
+outputs/
 
 # IDE
 .vscode/
@@ -28,7 +24,3 @@ outputs/*.txt
 # OS
 .DS_Store
 Thumbs.db
-
-
-
-
